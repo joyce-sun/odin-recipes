@@ -1,6 +1,9 @@
+* {
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+
 #main-title{
     font-size: 48px;
-    font-family: "Trebuchet MS", Verdana, sans-serif;
 }
 
 h1 {
@@ -10,3 +13,34 @@ h1 {
     font-family: "Trebuchet MS", Verdana, sans-serif; 
     color: white;
 }
+
+h3 {
+    font-weight: bold;
+}
+
+ul {
+    background-color:#CEB59A;
+}
+
+ol {
+    background-color: #CFABA9;
+}
+
+.ingredients {
+    color: #EA3600;
+}
+
+.extras {
+    color: #836C98;
+}
+
+.instructions {
+   color: #33AEE6;
+   text-decoration: underline;
+}
+
+.nutrition {
+    color: #56362F;
+    font-weight: normal;
+}
+
